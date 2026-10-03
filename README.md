@@ -1,21 +1,51 @@
-# ABOUT ME
+# A# 👋 Hi, I’m Joe!
 
-👨‍🎓 I am graduating FA'24 with an MS Chemistry (Computational). I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
+## ABOUT ME
 
-⏱️ In the last seven months, my journey into the realm of DevOps has been a dynamic blend of text-based exploration and hands-on application. Following the advice of a talented mentor, I have spent this time focusing on Infrastructure as Code (IaC), cloud development and management, as well as aspects in containerization. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!
+👨‍🎓 I have a background in computational chemistry and biophysics research, where I used **Python, Bash, and Linux** to analyze data and simulate biophysical models on local and remote systems. That experience sparked my interest in coding, automation, and understanding how systems work.
 
-✌️ In my free time from learning these valuable skills, I can be found catching up with friends, immersed in one of the many Star Wars books and/or exploring a new hobby!
-<br><br>
+☁️ I expanded that foundation through hands on cloud and DevOps training to cover **AWS, IaC with Terraform, Linux administration, and containerization with Docker**. Along the way, I earned the AWS Cloud Practitioner (CLF-02) and Terraform Associate (003) certifications.
 
-# 📖 Completed courses and certificates:
-1. ***AWS Certified Cloud Practioner (CF-02)***
-2. ***HashiCorp Certified: Terraform Associate (003)***
-3. *AWS Technical Essentials* (AWS Solutions Architect)
-4. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
-5. *Intensive Cloud Training* (via The Cloud Bootcamp)
+🛡️ Today, I’m transitioning into **cybersecurity**, with a focus on entry-level **SOC and security analyst roles**. I’m currently working through the **Google Cybersecurity Certificate**, rebuilding my technical skills, and developing a portfolio that connects my research and cloud background with practical security work.
 
-For more detail into my experiences and skills, please visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile!
-<br><br>
+🤝 My professional experience in sales as a founder and later at **Gartner and Yello** have strengthened my ability to ask specific questions, communicate complex ideas, and understand business needs, all of which to bring value into this chapter of my technology career.
+
+✌️ Outside of work and learning, you’ll find me trying some new hobby, running through downtown area out to eat with friends.
+
+## 🎯 CURRENT FOCUS
+
+- Completing the **Google Cybersecurity Certificate** (✅ January '27)
+- Studying for 
+- Strengthening my foundations in **networking, Linux, and security operations**
+- Applying **Python and Bash** to security analysis and automation
+- Building and documenting practical security labs on GitHub
+- Preparing for my first **SOC or cybersecurity analyst role**
+
+## 📖 CERTIFICATIONS & TRAINING
+
+**Currently pursuing**
+- Google Cybersecurity Certificate
+
+**Previously earned**
+- AWS Certified Cloud Practitioner
+- HashiCorp Certified: Terraform Associate (003)
+
+**Completed training**
+- AWS Technical Essentials
+- Linux Administration — Jason Cannon
+- Intensive Cloud Training — The Cloud Bootcamp
+
+## 💻 TECHNICAL BACKGROUND
+
+**Languages & systems:** Python · Bash · Linux  
+**Cloud & infrastructure:** AWS · Terraform  
+**Containers & tooling:** Docker · Kubernetes · Jenkins · Anaconda
+
+## 🔗 LET’S CONNECT
+
+I’m interested in connecting with security professionals, recruiters, and fellow learners as I build toward a career in cybersecurity.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/)
  
 # TECHNICAL
 
