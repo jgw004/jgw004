@@ -1,4 +1,4 @@
-#👋 Hi, I’m Joe!
+👋 Hi, I’m Joe!
 
 ## ABOUT ME
 
