@@ -15,35 +15,38 @@
 ## 🎯 CURRENT FOCUS
 
 - Completing the **Google Cybersecurity Certificate** (✅ January '27)
-- Studying for 
-- Strengthening my foundations in **networking, Linux, and security operations**
-- Applying **Python and Bash** to security analysis and automation
-- Building and documenting practical security labs on GitHub
-- Preparing for my first **SOC or cybersecurity analyst role**
+- Next Cert: Security+ (✅ February-March '27)
+- Strengthen **networking, Linux, and security operations** foundations
+- Apply **Python and Bash** to security analysis and automation
+- Build and document practical security labs here
+- Prepare for **SOC or cybersecurity analyst** roles
 
 ## 📖 CERTIFICATIONS & TRAINING
 
 **Currently pursuing**
 - Google Cybersecurity Certificate
 
+**Future pursuit**
+- Security+ Certificate
+
 **Previously earned**
-- AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner (CLF-02)
 - HashiCorp Certified: Terraform Associate (003)
 
-**Completed training**
+**Completed Training**
 - AWS Technical Essentials
 - Linux Administration — Jason Cannon
 - Intensive Cloud Training — The Cloud Bootcamp
 
 ## 💻 TECHNICAL BACKGROUND
 
-**Languages & systems:** Python · Bash · Linux  
-**Cloud & infrastructure:** AWS · Terraform  
-**Containers & tooling:** Docker · Kubernetes · Jenkins · Anaconda
+**Languages & Systems:** Python · Bash · Linux  
+**Cloud & Infrastructure:** AWS · Terraform  
+**Containers & Tooling:** Docker · Kubernetes · Jenkins · Anaconda
 
 ## 🔗 LET’S CONNECT
 
-I’m interested in connecting with security professionals, recruiters, and fellow learners as I build toward a career in cybersecurity.
+I’m interested in connecting with security professionals, recruiters, and fellow learners as I build toward my career in cybersecurity!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/)
  
