@@ -14,8 +14,8 @@
 
 ## 🎯 CURRENT FOCUS
 
-- Completing the **Google Cybersecurity Certificate** (✅ January '27)
-- Next Cert: Security+ (✅ February-March '27)
+- Completing the **Google Cybersecurity Certificate** (✅ November '27)
+- Next Cert: Security+ (✅ January '27)
 - Strengthen **networking, Linux, and security operations** foundations
 - Apply **Python and Bash** to security analysis and automation
 - Build and document practical security labs here
