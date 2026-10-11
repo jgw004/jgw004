@@ -2,34 +2,27 @@
 
 ## ABOUT ME
 
-👨‍🎓 I have a background in computational chemistry and biophysics research, where I used **Python, Bash, and Linux** to analyze data and simulate biophysical models on local and remote systems. That experience sparked my interest in coding, automation, and understanding how systems work.
+👨‍🎓 I'm an SDR for a SaaS organization, working to transfer back into the tech world and security specifically. My technical experience spans 3 years across graduate school in computational biophysics where I used **Python, Bash, and Linux** to analyze large data strucutres for simulation of biophysical models on local and remote HPC systems. That experience sparked my interest in coding, automation, and understanding of how systems work.
 
-☁️ I expanded that foundation through hands on cloud and DevOps training to cover **AWS, IaC with Terraform, Linux administration, and containerization with Docker**. Along the way, I earned the AWS Cloud Practitioner (CLF-02) and Terraform Associate (003) certifications.
+☁️ I expanded that foundation through mentorship with hands on cloud and DevOps training to cover **AWS, IaC with Terraform, Linux administration, containerization with Docker, and some Kubernetes orchestration**. Along the way, I earned my AWS Cloud Practitioner (CLF-02) and Terraform Associate (003) certifications.
 
-🛡️ Today, I’m transitioning into **cybersecurity**, with a focus on entry-level **SOC and security analyst roles**. I’m currently working through the **Google Cybersecurity Certificate**, rebuilding my technical skills, and developing a portfolio that connects my research and cloud background with practical security work.
+🛡️ Today, I’m transitioning into **technical security** with a focus on entry-level **SOC, cloud security, and DevSecOp roles**. I’m currently working through the **Google Cybersecurity Certificate**, readdressing any technical gaps, and developing a portfolio that connects my ability to communicate complex information, perform detailed research and understand practical cloud infrstructures.
 
 🤝 My professional experience in sales as a founder and later at **Gartner and Yello** have strengthened my ability to ask specific questions, communicate complex ideas, and understand business needs, all of which to bring value into this chapter of my technology career.
 
-✌️ Outside of work and learning, you’ll find me trying some new hobby, running through downtown area out to eat with friends.
+✌️ Outside of work and learning, you’ll find me trying some new hobby, running through downtown Dallas or out to eat with friends.
 
 ## 🎯 CURRENT FOCUS
 
-- Completing the **Google Cybersecurity Certificate** (✅ November '27)
-- Next Cert: Security+ (✅ January '27)
-- Strengthen **networking, Linux, and security operations** foundations
-- Apply **Python and Bash** to security analysis and automation
+- Complete the **Google Cybersecurity Certificate** (✅ November '27)
+- Complete the **Security+ Certificate** (✅ January '27)
+- Strengthen **networking, Linux, and SecOps** foundations
+- Apply **Python, Bash and SQL** to security analysis and automation
 - Build and document practical security labs here
-- Prepare for **SOC or cybersecurity analyst** roles
+- Prepare for **SOC**, **cloud security** or **cybersecurity analyst** roles
 
-## 📖 CERTIFICATIONS & TRAINING
+## 📖 CURRENT CERTIFICATIONS & TRAINING
 
-**Currently pursuing**
-- Google Cybersecurity Certificate
-
-**Future pursuit**
-- Security+ Certificate
-
-**Previously earned**
 - AWS Certified Cloud Practitioner (CLF-02)
 - HashiCorp Certified: Terraform Associate (003)
 
