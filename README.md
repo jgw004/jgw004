@@ -2,31 +2,37 @@
 
 ## ABOUT ME
 
-👨‍🎓 I'm an SDR for a SaaS organization, working to transfer back into the tech world and security specifically. My technical experience spans 3 years across graduate school in computational biophysics where I used **Python, Bash, and Linux** to analyze large data strucutres for simulation of biophysical models on local and remote HPC systems. That experience sparked my interest in coding, automation, and understanding of how systems work.
+👨‍🎓 My technical experience in tech spans 3 years across graduate school at the University of Arkansas studying computational biophysics where I used **Python, Bash, and Linux** daily to analyze and simulate large data structures of biophysical models (most notably, the SARS CoV-2 spike protein) within local and remote HPC systems. This experience sparked my fascination for coding, automation, and understanding more deeply of how computer systems work.
 
-☁️ I expanded that foundation through mentorship with hands on cloud and DevOps training to cover **AWS, IaC with Terraform, Linux administration, containerization with Docker, and some Kubernetes orchestration**. Along the way, I earned my AWS Cloud Practitioner (CLF-02) and Terraform Associate (003) certifications.
+☁️ I've built upon my foundation through mentorship with cloud and DevOps training to learn **AWS, IaC with Terraform, Linux administration, containerization with Docker, and light Kubernetes orchestration**. Along the way, I earned my AWS Cloud Practitioner (CLF-02) and Terraform Associate (003) certifications.
 
-🛡️ Today, I’m transitioning into **technical security** with a focus on entry-level **SOC, cloud security, and DevSecOp roles**. I’m currently working through the **Google Cybersecurity Certificate**, readdressing any technical gaps, and developing a portfolio that connects my ability to communicate complex information, perform detailed research and understand practical cloud infrstructures.
+🛡️ Today, with the wide availability of AI, I understand more of the gravity and need to implement strong security across computer networks and systems.
 
-🤝 My professional experience in sales as a founder and later at **Gartner and Yello** have strengthened my ability to ask specific questions, communicate complex ideas, and understand business needs, all of which to bring value into this chapter of my technology career.
+I'm currently focusing on entry level security roles: **SOC, cloud security, and DevSecOp roles**.
+
+As a baseline, I obtained Google's **Cybersecurity Certificate** within a month, to learn new concepts and readdress any technical gaps including SQL.
+
+I strongly believe my experience can effectively connect to a strong ability to communicate complex information, perform detailed research quickly, while understanding practical cloud and security infrstructures.
+
+🤝 Beyond graduate school, my professional experience spancs across D2D, Fortune 500 at **Gartner**, SaaS at Yello (current), and even founding my own SaaS startup. All of my experience has sharpened my ability to ask specific questions, communicate complex ideas, and understand a businesses needs.
 
 ✌️ Outside of work and learning, you’ll find me trying some new hobby, running through downtown Dallas or out to eat with friends.
 
-## 🎯 CURRENT Focus
+## 🎯 Focus
 
-- Complete the **Google Cybersecurity Certificate** (✅ November '27)
-- Complete the **Security+ Certificate** (✅ January '27)
+- Complete the **Security+ Certificate** (✅ December '26)
 - Strengthen **networking, Linux, and SecOps** foundations
 - Apply **Python, Bash and SQL** to security analysis and automation
 - Build and document practical security labs here
 - Prepare for **SOC**, **cloud security** or **cybersecurity analyst** roles
 
-## 📖 CURRENT Certifications & Training
+## 📖 Certifications & Training
 
 - AWS Certified Cloud Practitioner (CLF-02)
 - HashiCorp Certified: Terraform Associate (003)
+- Google Cybersecurity Certificate
 
-## 📚 EXTRA Learning
+## 📚 Learning
 
 - Google Cybersecurity Certificate
 - Security+ Video Modules - Professor Messer
@@ -34,17 +40,15 @@
 - Linux Administration — Jason Cannon
 - Intensive Cloud Training — The Cloud Bootcamp
 
-## 💻 TECHNICAL BACKGROUND
+## 💻 Hands-On Experience
 
 **Languages & Systems:** Python · Bash · Linux · SQL
 **Cloud & Infrastructure:** AWS · Terraform  
-**Containers & Tooling:** Docker · Kubernetes · Jenkins · Anaconda
+**Containers & Tooling:** Docker · Anaconda
 
-## 🔗 LET’S CONNECT
+## 🔗 Let's Connect
 
-I’m interested in connecting with security professionals, recruiters, and fellow learners as I build toward my career in cybersecurity!
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/)
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/joseph-williamson-373359107/)
  
 # TECHNICAL
 
