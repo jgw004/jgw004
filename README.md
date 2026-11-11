@@ -1,9 +1,9 @@
 ## 📖 Certifications & Training
 
 - **Security+ Certificate** (🕓 December '26)
-- **Google Cybersecurity Certificate**
+- **Google Cybersecurity Certified**
 - **AWS Certified Cloud Practitioner (CLF-02)**
-- HashiCorp Certified, **Terraform Associate (003)**
+- **HashiCorp Certified, Terraform Associate (003)**
 
 ## ABOUT ME
 
