@@ -1,9 +1,9 @@
 ## 📖 Certifications & Training
 
-- **Security+ Certificate** (🕓 December '26)
-- **Google Cybersecurity Certified**
 - **AWS Certified Cloud Practitioner (CLF-02)**
 - **HashiCorp Certified, Terraform Associate (003)**
+- **Google Cybersecurity Certified**
+- **CompTIA Security+ Certificate** (🕓 December '26)
 
 ## ABOUT ME
 👨‍🎓 3 years of technical experience as a graduate student at the University of Arkansas, studying computational biophysics. Daily projects using **Python, Bash, and Linux** to analyze and simulate large data structures of biophysical models (most notably, the SARS CoV-2 spike protein) across local and remote HPC systems (Frontera, Blue Water, etc.).
